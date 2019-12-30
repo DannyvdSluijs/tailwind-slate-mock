@@ -3,21 +3,31 @@ As part of my work routine I've set my Q4 '19 goal to get acquainted with [Tailw
 After watching the screencasts created by [Adam Wathan](https://adamwathan.me) I've tried to copy his working technique 
 of implementing an UI from design. With one small difference, whereas Adam works from an interface drafted in Sketch by 
 [Steve Schoger](https://www.steveschoger.com). I'm trying to build an existing UI using Tailwind CSS. For this I've 
-chosen [Slate](https://slatedocs.github.io/slate/#introduction)
+chosen to recreate the [Slate](https://slatedocs.github.io/slate/#introduction) interface.
 
 # Reflection
 As an software engineer more focused on the backend I've always found that CSS didn't click with me. However 
 the way Tailwind offers a single source of documentation, it's screencasts and how it offers an "API" to build the UI 
 makes it logically for me that it was before. 
+
 After watching the screencast I now have some basic process which I can follow and apply myself resulting in a Tailwind
 version of the Slate UI. As my intent was not to recreate the Slate app with all features But instead focus on the 
-UI part, this resulted in a partial UI without functionalities. All in all I'm very pleased with the result and feel 
-confident I can get easily up to speed with Tailwind CSS if needed in any future project.
-On personal projects I would prefer tailwind over Bootstrap as to me it feels more intuitive. Which maybe only the result
-of the combination of documentation and screencasts or that fact that I've done a deep dive into a CSS framework.
+UI part, which resulted in a partial UI without functionalities. Also the colouring and grid sizes are off which I've 
+intentionally left behind. Reading through the documentation I've found that Tailwind CSS allows you to reconfigure the
+colours as well as the grid size (and everything else) which made it for me not the top priority.
 
-# Result
+All in all I'm very pleased with the result and feel confident I can get easily up to speed with Tailwind CSS if needed
+in any future project.
+
+On personal projects I would prefer tailwind over Bootstrap as to me it feels more intuitive. Which maybe only the result
+of the combination of documentation and screencasts or that fact that I've done a deep dive into a CSS framework. One 
+downside that should be mentioned that compared to Bootstrap the setup might take a bit longer but since that is only a 
+one time thing it is worth the effort.
+
+# Comparison
+## Original
 ![original](https://raw.githubusercontent.com/DannyvdSluijs/tailwind-slate-mock/master/original.png)
+## Result
 ![result](https://raw.githubusercontent.com/DannyvdSluijs/tailwind-slate-mock/master/result.png)
 
 
