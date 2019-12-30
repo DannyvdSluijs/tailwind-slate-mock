@@ -5,6 +5,10 @@ of implementing an UI from design. With one small difference, whereas Adam works
 [Steve Schoger](https://www.steveschoger.com). I'm trying to build an existing UI using Tailwind CSS. For this I've 
 chosen to recreate the [Slate](https://slatedocs.github.io/slate/#introduction) interface.
 
+# Running
+In a terminal launch the vue cli service using `npm run serve`. After some seconds there will some feedback with
+the available network addresses the app is running at. Typically [http://localhost:8081/](http://localhost:8081/)
+
 # Reflection
 As an software engineer more focused on the backend I've always found that CSS didn't click with me. However 
 the way Tailwind offers a single source of documentation, it's screencasts and how it offers an "API" to build the UI 
@@ -29,7 +33,6 @@ one time thing it is worth the effort.
 ![original](https://raw.githubusercontent.com/DannyvdSluijs/tailwind-slate-mock/master/original.png)
 ## Result
 ![result](https://raw.githubusercontent.com/DannyvdSluijs/tailwind-slate-mock/master/result.png)
-
 
 # Video's
 * [Official screen casts](https://tailwindcss.com/screencasts/)
